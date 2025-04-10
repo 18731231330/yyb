@@ -1,0 +1,99 @@
+/* 学科图标样式 */
+.subject-icon {
+    position: relative;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background-size: 65%;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+    background-color: #f8f9fa;
+    margin-bottom: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+/* 小学学科图标 */
+.subject-icon.chinese {
+    background-image: url('../images/icons/chinese.png');
+}
+
+.subject-icon.math {
+    background-image: url('../images/icons/math.png');
+}
+
+.subject-icon.english {
+    background-image: url('../images/icons/english.png');
+}
+
+.subject-icon.moral {
+    background-image: url('../images/icons/moral.png');
+}
+
+.subject-icon.science {
+    background-image: url('../images/icons/science.png');
+}
+
+.subject-icon.music {
+    background-image: url('../images/icons/music.png');
+}
+
+.subject-icon.art {
+    background-image: url('../images/icons/art.png');
+}
+
+.subject-icon.chemistry {
+    background-image: url('../images/icons/chemistry.png');
+}
+
+.subject-icon.geography {
+    background-image: url('../images/icons/geography.png');
+}
+.subject-icon.rehabilitation {
+    background-image: url('../images/icons/rehabilitation.png');
+}
+.subject-icon.drawing {
+    background-image: url('../images/icons/drawing.png');
+}
+.subject-icon.biology {
+    background-image: url('../images/icons/biology.png');
+}
+.subject-icon.history {
+    background-image: url('../images/icons/history.png');
+}
+.subject-icon.calligraphy {
+    background-image: url('../images/icons/calligraphy.png');
+}
+.subject-icon.gymnastics {
+    background-image: url('../images/icons/gymnastics.png');
+}
+.subject-icon.physics {
+    background-image: url('../images/icons/physics.png');
+}
+.subject-icon.information {
+    background-image: url('../images/icons/information.png');
+}
+.subject-icon.politics {
+    background-image: url('../images/icons/politics.png');
+}
+.subject-icon.general  {
+    background-image: url('../images/icons/general.png');
+}
+.subject-icon.communication  {
+    background-image: url('../images/icons/communication.png');
+}
+.subject-icon.walking  {
+    background-image: url('../images/icons/walking.png');
+}
+.subject-icon.russian  {
+    background-image: url('../images/icons/russian.png');
+}
+.subject-icon.japanese  {
+    background-image: url('../images/icons/japanese.png');
+}
+.subject-icon.humanities  {
+    background-image: url('../images/icons/humanities.png');
+}
+.subject-icon.adapt  {
+    background-image: url('../images/icons/adapt.png');
+}

@@ -1,0 +1,97 @@
+/* iOS UI 样式 - 包含状态栏和底部导航栏样式 */
+
+/* 移除iOS状态栏样式 */
+.ios-status-bar {
+    display: none; /* 隐藏状态栏 */
+}
+
+/* 底部导航栏样式 */
+.ios-tab-bar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 10px 0 20px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+.ios-tab-bar-dark {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.tab-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #8E8E93;
+    font-size: 10px;
+    gap: 4px;
+    text-decoration: none;
+    width: 60px;
+}
+
+.tab-item.active {
+    color: #007AFF;
+}
+
+.tab-item img {
+    width: 24px;
+    height: 24px;
+}
+
+/* 主容器调整，为底部导航栏留出空间 */
+.container {
+    padding-bottom: 70px; /* 底部导航栏高度 + 额外空间 */
+}
+
+/* iOS风格的卡片 */
+.ios-card {
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+/* iOS风格按钮 */
+.ios-button {
+    background-color: #007AFF;
+    color: white;
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-weight: 600;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.ios-button:hover {
+    background-color: #0066CC;
+}
+
+/* 适配深色模式 */
+body.dark-theme .ios-status-bar {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+}
+
+body.dark-theme .ios-tab-bar {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+body.dark-theme .ios-card {
+    background-color: rgba(30, 30, 30, 0.8);
+    color: #fff;
+}

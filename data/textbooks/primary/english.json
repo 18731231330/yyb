@@ -1,0 +1,125 @@
+{
+  "title": "小学英语电子课本",
+  "books": [
+    {
+      "id": "english_grade1_1_rj",
+      "name": "一年级-上册",
+      "grade": "一年级",
+      "term": "上册",
+      "version": "人教版",
+      "cover": "./images/textbooks/english/english_grade1_1_rj.png",
+      "resource": "",
+      "resource_type": ""
+    },
+    {
+      "id": "english_grade1_2_rj",
+      "name": "一年级-下册",
+      "grade": "一年级",
+      "term": "下册",
+      "version": "人教版",
+      "cover": "./images/textbooks/english/english_grade1_2_rj.png",
+      "resource": "",
+      "resource_type": ""
+    },
+    {
+      "id": "english_grade2_1_rj",
+      "name": "二年级-上册",
+      "grade": "二年级",
+      "term": "上册",
+      "version": "人教版",
+      "cover": "./images/textbooks/english/english_grade2_1_rj.png",
+      "resource": "",
+      "resource_type": ""
+    },
+    {
+      "id": "english_grade2_2_rj",
+      "name": "二年级-下册",
+      "grade": "二年级",
+      "term": "下册",
+      "version": "人教版",
+      "cover": "./images/textbooks/english/english_grade2_2_rj.png",
+      "resource": "",
+      "resource_type": ""
+    },
+    {
+      "id": "english_grade3_1_rj",
+      "name": "三年级-上册",
+      "grade": "三年级",
+      "term": "上册",
+      "version": "人教版",
+      "cover": "./images/textbooks/english/english_grade3_1_rj.png",
+      "resource": "",
+      "resource_type": ""
+    },
+    {
+      "id": "english_grade3_2_rj",
+      "name": "三年级-下册",
+      "grade": "三年级",
+      "term": "下册",
+      "version": "人教版",
+      "cover": "./images/textbooks/english/english_grade3_2_rj.png",
+      "resource": "",
+      "resource_type": ""
+    },
+    {
+      "id": "english_grade4_1_rj",
+      "name": "四年级-上册",
+      "grade": "四年级",
+      "term": "上册",
+      "version": "人教版",
+      "cover": "./images/textbooks/english/english_grade4_1_rj.png",
+      "resource": "",
+      "resource_type": ""
+    },
+    {
+      "id": "english_grade4_2_rj",
+      "name": "四年级-下册",
+      "grade": "四年级",
+      "term": "下册",
+      "version": "人教版",
+      "cover": "./images/textbooks/english/english_grade4_2_rj.png",
+      "resource": "",
+      "resource_type": ""
+    },
+    {
+      "id": "english_grade5_1_rj",
+      "name": "五年级-上册",
+      "grade": "五年级",
+      "term": "上册",
+      "version": "人教版",
+      "cover": "./images/textbooks/english/english_grade5_1_rj.png",
+      "resource": "",
+      "resource_type": ""
+    },
+    {
+      "id": "english_grade5_2_rj",
+      "name": "五年级-下册",
+      "grade": "五年级",
+      "term": "下册",
+      "version": "人教版",
+      "cover": "./images/textbooks/english/english_grade5_2_rj.png",
+      "resource": "",
+      "resource_type": ""
+    },
+    {
+      "id": "english_grade6_1_rj",
+      "name": "六年级-上册",
+      "grade": "六年级",
+      "term": "上册",
+      "version": "人教版",
+      "cover": "./images/textbooks/english/grade6-1_rj.png",
+      "resource": "",
+      "resource_type": ""
+    },
+    {
+      "id": "english_grade6_2_rj",
+      "name": "六年级-下册",
+      "grade": "六年级",
+      "term": "下册",
+      "version": "人教版",
+      "cover": "./images/textbooks/english/grade6-2_rj.png",
+      "resource": "",
+      "resource_type": ""
+    }
+  ]
+}

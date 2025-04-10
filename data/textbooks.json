@@ -1,0 +1,154 @@
+{
+  "chinese": {
+    "primary": {
+      "title": "小学语文电子课本",
+      "books": [
+        {
+          "id": "chinese_grade1_1",
+          "name": "一年级-上册",
+          "grade": "一年级",
+          "term": "上册",
+          "version": "部编版人教版",
+          "cover": "./images/textbooks/chinese/grade1-1.png",
+          "resource": "./res/一年级-语文(统编版)-教材.pdf",
+          "resource_type": "pdf"
+        },
+        {
+          "id": "chinese_grade1_2",
+          "name": "一年级-下册",
+          "grade": "一年级",
+          "term": "下册",
+          "version": "部编版人教版",
+          "cover": "./images/textbooks/chinese/grade1-2.png",
+          "resource": "./res/一年级-语文(统编版)-我是中国人-课件.pptx",
+          "resource_type": "pptx"
+        },
+        {
+          "id": "chinese_grade2_1",
+          "name": "二年级-上册",
+          "grade": "二年级",
+          "term": "上册",
+          "version": "部编版人教版",
+          "cover": "./images/textbooks/chinese/grade2-1.png",
+          "resource": "./res/一年级-数学-人教.pdf",
+          "resource_type": "pdf"
+        },
+        {
+          "id": "chinese_grade2_2",
+          "name": "二年级-下册",
+          "grade": "二年级",
+          "term": "下册",
+          "version": "部编版人教版",
+          "cover": "./images/textbooks/chinese/grade2-2.png",
+          "resource": "",
+          "resource_type": ""
+        },
+        {
+          "id": "chinese_grade3_1",
+          "name": "三年级-上册",
+          "grade": "三年级",
+          "term": "上册",
+          "version": "部编版人教版",
+          "cover": "./images/textbooks/chinese/grade3-1.png",
+          "resource": "./res/一年级-数学-人教.pdf",
+          "resource_type": "pdf"
+        },
+        {
+          "id": "chinese_grade3_2",
+          "name": "三年级-下册",
+          "grade": "三年级",
+          "term": "下册",
+          "version": "部编版人教版",
+          "cover": "./images/textbooks/chinese/grade3-2.png",
+          "resource": "",
+          "resource_type": ""
+        },
+        {
+          "id": "chinese_grade4_1",
+          "name": "四年级-上册",
+          "grade": "四年级",
+          "term": "上册",
+          "version": "部编版人教版",
+          "cover": "./images/textbooks/chinese/grade4-1.png",
+          "resource": "./res/一年级-数学-人教.pdf",
+          "resource_type": "pdf"
+        },
+        {
+          "id": "chinese_grade4_2",
+          "name": "四年级-下册",
+          "grade": "四年级",
+          "term": "下册",
+          "version": "部编版人教版",
+          "cover": "./images/textbooks/chinese/grade4-2.png",
+          "resource": "",
+          "resource_type": ""
+        },
+        {
+          "id": "chinese_grade5_1",
+          "name": "五年级-上册",
+          "grade": "五年级",
+          "term": "上册",
+          "version": "部编版人教版",
+          "cover": "./images/textbooks/chinese/grade5-1.png",
+          "resource": "./res/一年级-数学-人教.pdf",
+          "resource_type": "pdf"
+        },
+        {
+          "id": "chinese_grade5_2",
+          "name": "五年级-下册",
+          "grade": "五年级",
+          "term": "下册",
+          "version": "部编版人教版",
+          "cover": "./images/textbooks/chinese/grade5-2.png",
+          "resource": "./res/一年级-数学-人教.pdf",
+          "resource_type": "pdf"
+        },
+        {
+          "id": "chinese_grade6_1",
+          "name": "六年级-下册",
+          "grade": "六年级",
+          "term": "下册",
+          "version": "部编版人教版",
+          "cover": "./images/textbooks/chinese/grade6-1.png",
+          "resource": "",
+          "resource_type": ""
+        },
+        {
+          "id": "chinese_grade6_2",
+          "name": "六年级-下册",
+          "grade": "六年级",
+          "term": "下册",
+          "version": "部编版人教版",
+          "cover": "./images/textbooks/chinese/grade6-2.png",
+          "resource": "",
+          "resource_type": ""
+        }
+      ]
+    },
+    "junior": {
+      "title": "初中语文电子课本",
+      "books": [
+        {
+          "id": "chinese_grade7_1",
+          "name": "七年级-上册",
+          "grade": "七年级",
+          "term": "上册",
+          "version": "部编版人教版",
+          "cover": "./images/textbooks/chinese/grade7-1.jpg",
+          "resource": "",
+          "resource_type": ""
+        },
+        {
+          "id": "chinese_grade7_2",
+          "name": "七年级-下册",
+          "grade": "七年级",
+          "term": "下册",
+          "version": "部编版人教版",
+          "cover": "./images/textbooks/chinese/grade7-2.jpg",
+          "resource": "",
+          "resource_type": ""
+        }
+      ]
+    }
+  }
+}

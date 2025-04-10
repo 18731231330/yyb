@@ -1,0 +1,25 @@
+{
+  "title": "初中语文电子课本",
+  "books": [
+    {
+      "id": "chinese_grade7_1",
+      "name": "七年级-上册",
+      "grade": "七年级",
+      "term": "上册",
+      "version": "部编版人教版",
+      "cover": "./images/textbooks/chinese/grade7-1.jpg",
+      "resource": "",
+      "resource_type": ""
+    },
+    {
+      "id": "chinese_grade7_2",
+      "name": "七年级-下册",
+      "grade": "七年级",
+      "term": "下册",
+      "version": "部编版人教版",
+      "cover": "./images/textbooks/chinese/grade7-2.jpg",
+      "resource": "",
+      "resource_type": ""
+    }
+  ]
+}

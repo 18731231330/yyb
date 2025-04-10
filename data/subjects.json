@@ -1,0 +1,432 @@
+{
+  "primary": {
+    "title": "小学",
+    "subjects": [
+      {
+        "id": "chinese",
+        "name": "语文",
+        "icon": "chinese"
+      },
+      {
+        "id": "math",
+        "name": "数学",
+        "icon": "math"
+      },
+      {
+        "id": "english",
+        "name": "英语",
+        "icon": "english"
+      },
+      {
+        "id": "moral",
+        "name": "德法",
+        "icon": "moral"
+      },
+      {
+        "id": "science",
+        "name": "科学",
+        "icon": "science"
+      },
+      {
+        "id": "music",
+        "name": "音乐",
+        "icon": "music"
+      },
+      {
+        "id": "drawing",
+        "name": "美术",
+        "icon": "drawing"
+      },
+      {
+        "id": "art",
+        "name": "艺术",
+        "icon": "art"
+      },
+      {
+        "id": "gymnastics",
+        "name": "体育",
+        "icon": "gymnastics"
+      },
+      {
+        "id": "calligraphy",
+        "name": "书法",
+        "icon": "calligraphy"
+      },
+      {
+        "id": "information",
+        "name": "信息",
+        "icon": "information"
+      }
+    ]
+  },
+  "junior": {
+    "title": "初中",
+    "subjects": [
+      {
+        "id": "chinese",
+        "name": "语文",
+        "icon": "chinese"
+      },
+      {
+        "id": "math",
+        "name": "数学",
+        "icon": "math"
+      },
+      {
+        "id": "english",
+        "name": "英语",
+        "icon": "english"
+      },
+      {
+        "id": "physics",
+        "name": "物理",
+        "icon": "physics"
+      },
+      {
+        "id": "chemistry",
+        "name": "化学",
+        "icon": "chemistry"
+      },
+      {
+        "id": "biology",
+        "name": "生物",
+        "icon": "biology"
+      },
+      {
+        "id": "history",
+        "name": "历史",
+        "icon": "history"
+      },
+      {
+        "id": "geography",
+        "name": "地理",
+        "icon": "geography"
+      },
+      {
+        "id": "humanities",
+        "name": "人地",
+        "icon": "humanities"
+      },
+      {
+        "id": "moral",
+        "name": "德法",
+        "icon": "moral"
+      },
+      {
+        "id": "music",
+        "name": "音乐",
+        "icon": "music"
+      },
+      {
+        "id": "drawing",
+        "name": "美术",
+        "icon": "drawing"
+      },
+      {
+        "id": "gymnastics",
+        "name": "体育",
+        "icon": "gymnastics"
+      },
+      {
+        "id": "science",
+        "name": "科学",
+        "icon": "science"
+      },
+      {
+        "id": "art",
+        "name": "艺术",
+        "icon": "art"
+      },
+      {
+        "id": "japanese",
+        "name": "日语",
+        "icon": "japanese"
+      },
+      {
+        "id": "russian",
+        "name": "俄语",
+        "icon": "russian"
+      }
+    ]
+  },
+  "high": {
+    "title": "高中",
+    "subjects": [
+      {
+        "id": "chinese",
+        "name": "语文",
+        "icon": "chinese"
+      },
+      {
+        "id": "math",
+        "name": "数学",
+        "icon": "math"
+      },
+      {
+        "id": "english",
+        "name": "英语",
+        "icon": "english"
+      },
+      {
+        "id": "physics",
+        "name": "物理",
+        "icon": "physics"
+      },
+      {
+        "id": "chemistry",
+        "name": "化学",
+        "icon": "chemistry"
+      },
+      {
+        "id": "biology",
+        "name": "生物",
+        "icon": "biology"
+      },
+      {
+        "id": "history",
+        "name": "历史",
+        "icon": "history"
+      },
+      {
+        "id": "geography",
+        "name": "地理",
+        "icon": "geography"
+      },
+      {
+        "id": "politics",
+        "name": "政治",
+        "icon": "politics"
+      },
+      {
+        "id": "information",
+        "name": "信息",
+        "icon": "information"
+      },
+      {
+        "id": "general",
+        "name": "通用",
+        "icon": "general"
+      },
+      {
+        "id": "gymnastics",
+        "name": "体育",
+        "icon": "gymnastics"
+      },
+      {
+        "id": "music",
+        "name": "音乐",
+        "icon": "music"
+      },
+      {
+        "id": "art",
+        "name": "艺术",
+        "icon": "art"
+      },{
+        "id": "drawing",
+        "name": "美术",
+        "icon": "drawing"
+      },
+      {
+        "id": "japanese",
+        "name": "日语",
+        "icon": "japanese"
+      },
+      {
+        "id": "russian",
+        "name": "俄语",
+        "icon": "russian"
+      }
+    ]
+  },
+  "vocational": {
+    "title": "中职",
+    "subjects": [
+      {
+        "id": "chinese",
+        "name": "语文",
+        "icon": "chinese"
+      },
+      {
+        "id": "math",
+        "name": "数学",
+        "icon": "math"
+      },
+      {
+        "id": "english",
+        "name": "英语",
+        "icon": "english"
+      },
+      {
+        "id": "physics",
+        "name": "物理",
+        "icon": "physics"
+      },
+      {
+        "id": "chemistry",
+        "name": "化学",
+        "icon": "chemistry"
+      },
+      {
+        "id": "history",
+        "name": "历史",
+        "icon": "history"
+      },
+      {
+        "id": "information",
+        "name": "信息",
+        "icon": "information"
+      },
+      {
+        "id": "art",
+        "name": "艺术",
+        "icon": "art"
+      },
+      {
+        "id": "gymnastics",
+        "name": "体育",
+        "icon": "gymnastics"
+      }
+    ]
+  },
+  "intellectual": {
+    "title": "智培学校",
+    "subjects": [
+      {
+        "id": "chinese",
+        "name": "语文",
+        "icon": "chinese"
+      },
+      {
+        "id": "math",
+        "name": "数学",
+        "icon": "math"
+      },
+      {
+        "id": "adapt",
+        "name": "适应",
+        "icon": "adapt"
+      }
+    ]
+  },
+  "blind": {
+    "title": "盲校",
+    "subjects": [
+      {
+        "id": "chinese",
+        "name": "语文",
+        "icon": "chinese"
+      },
+      {
+        "id": "math",
+        "name": "数学",
+        "icon": "math"
+      },
+      {
+        "id": "english",
+        "name": "英语",
+        "icon": "english"
+      },
+      {
+        "id": "physics",
+        "name": "物理",
+        "icon": "physics"
+      },
+      {
+        "id": "chemistry",
+        "name": "化学",
+        "icon": "chemistry"
+      },
+      {
+        "id": "biology",
+        "name": "生物",
+        "icon": "biology"
+      },
+      {
+        "id": "history",
+        "name": "历史",
+        "icon": "history"
+      },
+      {
+        "id": "moral",
+        "name": "德法",
+        "icon": "moral"
+      },
+      {
+        "id": "information",
+        "name": "信息",
+        "icon": "information"
+      },
+      {
+        "id": "music",
+        "name": "音乐",
+        "icon": "music"
+      },
+      {
+        "id": "gymnastics",
+        "name": "体育",
+        "icon": "gymnastics"
+      },
+      {
+        "id": "walking",
+        "name": "行走",
+        "icon": "walking"
+      },
+      {
+        "id": "rehabilitation",
+        "name": "康复",
+        "icon": "rehabilitation"
+      }
+    ]
+  },
+  "deaf": {
+    "title": "聋校",
+    "subjects": [
+      {
+        "id": "chinese",
+        "name": "语文",
+        "icon": "chinese"
+      },
+      {
+        "id": "math",
+        "name": "数学",
+        "icon": "math"
+      },
+      {
+        "id": "physics",
+        "name": "物理",
+        "icon": "physics"
+      },
+      {
+        "id": "chemistry",
+        "name": "化学",
+        "icon": "chemistry"
+      },
+      {
+        "id": "history",
+        "name": "历史",
+        "icon": "history"
+      },
+      {
+        "id": "geography",
+        "name": "地理",
+        "icon": "geography"
+      },
+      {
+        "id": "moral",
+        "name": "德法",
+        "icon": "moral"
+      },
+      {
+        "id": "drawing",
+        "name": "美术",
+        "icon": "drawing"
+      },
+      {
+        "id": "communication",
+        "name": "沟通",
+        "icon": "communication"
+      }
+    ]
+  }
+
+}
